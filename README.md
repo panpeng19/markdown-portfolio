@@ -1,1 +1,8 @@
+# Learn how to use markdown
 This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+#aA
+##aA
+###aA
+####aA
+#####aA
+######aA
